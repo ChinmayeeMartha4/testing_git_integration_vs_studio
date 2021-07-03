@@ -1,0 +1,2 @@
+# testing_git_integration_vs_studio
+Testing Git Integration
